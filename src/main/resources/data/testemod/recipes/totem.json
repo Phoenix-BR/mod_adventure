@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:gold_ingot"
+    },
+    "0": {
+        "tag": "minecraft:emerald"
+      },
+    "3": {
+      "tag": "minecraft:gold_ingot"
+    },
+    "2": {
+      "tag": "minecraft:emerald"
+    },
+    "4": {
+      "tag": "minecraft:gold_ingot"},
+    "5": {
+      "tag": "minecraft:gold_ingot"}
+
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}
